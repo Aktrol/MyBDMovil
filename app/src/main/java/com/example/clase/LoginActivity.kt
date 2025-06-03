@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity // Importa AppCompatActivity, la
 import com.example.clase.database.DatabaseHelper // Importa DatabaseHelper para la gestión de la base de datos.
 import com.example.clase.databinding.ActivityLoginBinding // Importa la clase de binding generada para el layout activity_login.xml, utilizada para acceder a las vistas de forma segura.
 
-/**
+/** 
  * Actividad de inicio de sesión que permite al usuario ingresar un nombre de usuario,
  * contraseña y el nombre de la base de datos a la que desea conectarse.
  * Valida las credenciales y el nombre de la base de datos antes de intentar la conexión.
