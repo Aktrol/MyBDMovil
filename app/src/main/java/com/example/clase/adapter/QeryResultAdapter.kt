@@ -7,6 +7,7 @@ import android.view.View // Importa la clase base para todos los componentes de 
 import android.view.ViewGroup // Importa ViewGroup, la clase base para los diseños que contienen otras vistas.
 import android.widget.LinearLayout // Importa LinearLayout para organizar vistas en una sola dirección.
 import android.widget.TextView // Importa TextView para mostrar texto.
+//sadfasdfasdf
 import androidx.core.content.ContextCompat // Importa ContextCompat para obtener recursos de color de forma compatible con versiones anteriores de Android.
 import androidx.recyclerview.widget.RecyclerView // Importa RecyclerView, una vista eficiente para mostrar grandes conjuntos de datos.
 import com.example.clase.R // Importa la clase R generada automáticamente que contiene IDs de recursos.
