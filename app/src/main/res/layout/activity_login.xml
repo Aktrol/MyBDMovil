@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     tools:context=".LoginActivity">
-
+ 
     <TextView
         android:id="@+id/tv_app_title"
         android:layout_width="wrap_content"
