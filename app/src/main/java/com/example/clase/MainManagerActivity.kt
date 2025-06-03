@@ -11,7 +11,7 @@ import com.example.clase.adapter.QueryResultAdapter // Importa el adaptador para
 import com.example.clase.adapter.TableAdapter // Importa el adaptador para mostrar la lista de tablas de la base de datos.
 import com.example.clase.database.DatabaseHelper // Importa DatabaseHelper para la gestión de la base de datos.
 import com.example.clase.databinding.ActivityMainManagerBinding // Importa la clase de binding generada para el layout activity_main_manager.xml, utilizada para acceder a las vistas de forma segura.
-
+ 
 /**
  * Actividad principal que permite a los usuarios interactuar con una base de datos SQLite.
  * Muestra las tablas existentes y sus campos, y permite ejecutar consultas SQL personalizadas,
